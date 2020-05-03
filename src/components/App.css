@@ -1,0 +1,42 @@
+body {
+    margin-top: 70px;
+    background-color: #536e7d;
+
+}
+
+table {
+    width: 95%;
+}
+
+#sequence {
+    width: 95%;
+    margin: auto;
+    background-color: #1a3540;
+    empty-cells: show;
+}
+
+#sequence canvas {
+    margin: 4px;
+    padding: 4px;
+    border: 1px solid #1a3540;
+}
+
+#messages>*,
+#melanger,
+#consigne {
+    display: none;
+}
+
+
+.placeholder {
+    background-color: #1a3540;
+    width: 95%;
+}
+
+.h300 {
+    height: 300px;
+}
+
+#sequence img {
+    cursor: pointer;
+}
