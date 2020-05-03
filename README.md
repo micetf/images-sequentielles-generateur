@@ -1,2 +1,2 @@
-# starter-kit
-Kit de démarrage pour une application proposée sur micetf.fr
+# Images séquentielles (Générateur)
+Application permettant d'ordonner des images en lignes pour ensuite générer une archive.
