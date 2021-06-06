@@ -18,7 +18,7 @@
     "dependencies": {
         "bootstrap": "^4.4.1",
         "file-saver": "^2.0.2",
-        "jquery": "3.4.1",
+        "jquery": "3.5.0",
         "jquery-ui": "^1.12.1",
         "jquery-ui-touch-punch": "^0.2.3",
         "jszip": "^3.4.0",
